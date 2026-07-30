@@ -11,7 +11,7 @@ function isElevatorSafe(weights) {
             else {
                         return false;
             }
-  
+
 }
 // console.log(isElevatorSafe([60, 75, 50]));
 // console.log(isElevatorSafe([90, 100, 95, 120]));
